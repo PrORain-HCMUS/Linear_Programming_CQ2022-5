@@ -1,0 +1,21 @@
+Test Case 12:
+Số ràng buộc M: 2
+Ràng buộc:
+  -2*x1 + -1*x2 <= -14
+  -2*x1 + -5*x2 <= -30
+Hàm mục tiêu: F = 4*x1 + 3*x2 (minimize)
+
+Kết quả:
+1) Danh sách các điểm cực biên:
+   Điểm 1: (0, 14.0)
+   Điểm 2: (15.0, 0)
+   Điểm 3: (5.0, 4.0)
+
+2) Miền ràng buộc có bị chặn hay không?
+   Miền ràng buộc không bị chặn
+
+3) GTNN và GTLN tìm được:
+   GTNN: x1 = 5.0, x2 = 4.0, F = 32.0
+   GTLN: Không tồn tại
+
+Nghiệm tối ưu theo yêu cầu (minimize): x1 = 5.0, x2 = 4.0, F = 32.0 (GTNN)

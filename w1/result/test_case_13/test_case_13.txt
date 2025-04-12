@@ -1,0 +1,22 @@
+Test Case 13:
+Số ràng buộc M: 4
+Ràng buộc:
+  -3*x1 + 2*x2 <= -6
+  -1*x1 + -1*x2 <= -12
+  -1*x1 + 0*x2 <= -5
+  0*x1 + -1*x2 <= -4
+Hàm mục tiêu: F = -6*x1 + -5*x2 (minimize)
+
+Kết quả:
+1) Danh sách các điểm cực biên:
+   Điểm 1: (6.0, 6.0)
+   Điểm 2: (8.0, 4.0)
+
+2) Miền ràng buộc có bị chặn hay không?
+   Miền ràng buộc không bị chặn
+
+3) GTNN và GTLN tìm được:
+   GTNN: Không tồn tại
+   GTLN: x1 = 6.0, x2 = 6.0, F = -66.0
+
+Nghiệm tối ưu theo yêu cầu (minimize): Không tồn tại

@@ -1,0 +1,3 @@
+Em xin gửi notebook giải bài tập lấy điểm cộng ạ. Đi kèm đó em xin gửi thêm một file pdf có chú thích lại những lý thuyết đã được dùng để xây dựng những thuật toán trong notebook. 
+
+Sau khi chạy hết các cell thì folder result sẽ được tạo ra và chứa những file txt kết quả của từng test case ạ. Nhũng kết quả này cũng đã được kiểm tra lại thông qua Maple (cần kiểm tra thứ tự test case trước khi xem kết quả tương ứng), Thầy có thể coi trong file test_case.mw để kiểm tra ạ.

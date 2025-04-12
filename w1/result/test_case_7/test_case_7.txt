@@ -1,0 +1,21 @@
+Test Case 7:
+Số ràng buộc M: 2
+Ràng buộc:
+  -2*x1 + 1*x2 <= 4
+  1*x1 + -1*x2 <= 2
+Hàm mục tiêu: F = 3*x1 + 4*x2 (maximize)
+
+Kết quả:
+1) Danh sách các điểm cực biên:
+   Điểm 1: (0, 0)
+   Điểm 2: (0, 4.0)
+   Điểm 3: (2.0, 0)
+
+2) Miền ràng buộc có bị chặn hay không?
+   Miền ràng buộc không bị chặn
+
+3) GTNN và GTLN tìm được:
+   GTNN: x1 = 0, x2 = 0, F = 0
+   GTLN: Không tồn tại
+
+Nghiệm tối ưu theo yêu cầu (maximize): Không tồn tại

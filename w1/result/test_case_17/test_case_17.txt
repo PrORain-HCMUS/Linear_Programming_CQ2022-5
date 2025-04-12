@@ -1,0 +1,22 @@
+Test Case 17:
+Số ràng buộc M: 3
+Ràng buộc:
+  -1*x1 + 1*x2 <= 2
+  -1*x1 + -1*x2 <= 3
+  2*x1 + 3*x2 <= 4
+Hàm mục tiêu: F = 1*x1 + 1*x2 (maximize)
+
+Kết quả:
+1) Danh sách các điểm cực biên:
+   Điểm 1: (0, 0)
+   Điểm 2: (2.0, 0)
+   Điểm 3: (0, 1.3333333333333333)
+
+2) Miền ràng buộc có bị chặn hay không?
+   Miền ràng buộc bị chặn
+
+3) GTNN và GTLN tìm được:
+   GTNN: x1 = 0, x2 = 0, F = 0
+   GTLN: x1 = 2.0, x2 = 0, F = 2.0
+
+Nghiệm tối ưu theo yêu cầu (maximize): x1 = 2.0, x2 = 0, F = 2.0 (GTLN)

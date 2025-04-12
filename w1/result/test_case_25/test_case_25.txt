@@ -1,0 +1,27 @@
+Test Case 25:
+Số ràng buộc M: 10
+Ràng buộc:
+  -2*x1 + -1*x2 <= -14
+  -2*x1 + -5*x2 <= -30
+  1*x1 + 2*x2 <= 5
+  2*x1 + 3*x2 <= 6
+  3*x1 + 4*x2 <= 7
+  4*x1 + 5*x2 <= 8
+  5*x1 + 6*x2 <= 9
+  6*x1 + 7*x2 <= 10
+  7*x1 + 8*x2 <= 11
+  8*x1 + 9*x2 <= 12
+Hàm mục tiêu: F = 4*x1 + 3*x2 (minimize)
+
+Kết quả:
+1) Danh sách các điểm cực biên:
+   Không có điểm cực biên
+
+2) Miền ràng buộc có bị chặn hay không?
+   Miền ràng buộc bị chặn
+
+3) GTNN và GTLN tìm được:
+   GTNN: Không tồn tại
+   GTLN: Không tồn tại
+
+Nghiệm tối ưu theo yêu cầu (minimize): Không tồn tại
